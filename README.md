@@ -1,0 +1,2 @@
+# powershell
+for automation task
