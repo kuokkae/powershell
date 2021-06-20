@@ -1,3 +1,5 @@
+# Purpose: to reduce the amount of copy and pasting for backing up file daily before changes being made to our file
+
 #Gets Time
 $timestamp = Get-Date -Format "dd-MMM-yyyy HH-mm-ss"
 
