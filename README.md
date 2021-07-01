@@ -1,3 +1,3 @@
 # powershell
 
-code dump for task automation using powersheel
+code dump for powershell
